@@ -1,3 +1,6 @@
+Classificando imagens contendo pessoas e sem conter pessoas
+
+
 Primeiro, instale as bibliotecas necessárias:
 
 pip install flask tensorflow pillow
